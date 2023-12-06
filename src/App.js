@@ -30,13 +30,13 @@ function App() {
                     connexion entre les joueurs amateurs, semi-pros, et les coachs/managers avides de découvrir de nouveaux
                     talents.
                 </p>
-                <img class="img" src="img/rectangle-45.png" />
+                <img class="img" src="img/rectangle-45.png" alt="" />
                 </div>
                 <div class="overlap-2">
                 <p class="SCANNEZ-MOI">
                     <span class="text-wrapper-7">SCANNEZ</span> <span class="text-wrapper-8">-MOI</span>
                 </p>
-                <img class="rectangle-2" src="img/rectangle-39-1.png" />
+                <img class="rectangle-2" src="img/rectangle-39-1.png" alt="" />
                 <div class="rectangle-3"></div>
                 <p class="p">Rejoins nous sur Discord en scannant ce QR code !</p>
                 <img class="rectangle-4" src="img/rectangle-49.png" />
