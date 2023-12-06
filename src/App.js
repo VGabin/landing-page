@@ -39,11 +39,11 @@ function App() {
                 <img class="rectangle-2" src="img/rectangle-39-1.png" alt="" />
                 <div class="rectangle-3"></div>
                 <p class="p">Rejoins nous sur Discord en scannant ce QR code !</p>
-                <img class="rectangle-4" src="img/rectangle-49.png" />
+                <img class="rectangle-4" src="img/rectangle-49.png" alt="" />
                 </div>
                 <div class="overlap-3">
-                <img class="rectangle-5" src="img/rectangle-39.png" />
-                <img class="rectangle-6" src="img/rectangle-35.png" />
+                <img class="rectangle-5" src="img/rectangle-39.png" alt="" />
+                <img class="rectangle-6" src="img/rectangle-35.png" alt="" />
                 <div class="text-wrapper-9">COACHS/MANAGERS</div>
                 <div class="text-wrapper-10">JOUEURS</div>
                 </div>
@@ -64,12 +64,12 @@ function App() {
                 une communauté vibrante de joueurs avides d&#39;apprendre et de se surpasser. Explorez nos profils de joueurs,
                 découvrez leur histoire, et trouvez ceux qui partageront votre vision stratégique.
                 </p>
-                <img class="rectangle-7" src="img/rectangle-40.png" />
-                <img class="rectangle-8" src="img/rectangle-41.png" />
-                <img class="rectangle-9" src="img/rectangle-42.png" />
+                <img class="rectangle-7" src="img/rectangle-40.png" alt="" />
+                <img class="rectangle-8" src="img/rectangle-41.png" alt="" />
+                <img class="rectangle-9" src="img/rectangle-42.png" alt="" />
                 <div class="div-wrapper"><div class="text-wrapper-11">EN SAVOIR PLUS</div></div>
                 <div class="overlap-4"><div class="text-wrapper-12">EN SAVOIR PLUS</div></div>
-                <img class="rectangle-10" src="img/rectangle-47.png" />
+                <img class="rectangle-10" src="img/rectangle-47.png" alt="" />
             </div>
             </div>
         </body>
